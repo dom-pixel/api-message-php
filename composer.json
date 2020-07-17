@@ -1,6 +1,7 @@
 {
     "name": "dom-pixel/api-message",
     "description": "This is Api Message for use in all projects.",
+    "license": "MIT",
     "type": "library",
     "authors": [{
         "name": "Juniel Filappi",
