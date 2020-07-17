@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Api;
+namespace Api;
 
 
 class ApiMessage
@@ -16,3 +16,6 @@ class ApiMessage
         ];
     }
 }
+
+
+

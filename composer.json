@@ -7,7 +7,11 @@
         "email": "juniel123123@outlook.com"
     }],
     "require": {
-        "php": "^7.2",
-        "vendor/api": "1.*"
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Api\\": "api"
+        }
     }
 }
