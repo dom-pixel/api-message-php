@@ -1,0 +1,13 @@
+{
+    "name": "dom-pixel/api-message",
+    "description": "This is Api Message for use in all projects.",
+    "type": "library",
+    "authors": [{
+        "name": "Juniel Filappi",
+        "email": "juniel123123@outlook.com"
+    }],
+    "require": {
+        "php": "^7.2",
+        "vendor/api": "1.*"
+    }
+}
